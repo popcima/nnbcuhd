@@ -1,0 +1,152 @@
+{
+  "LiveEvents": [
+    {
+      "id": "E1",
+      "Tim1Name": "Leeds United",
+      "Tim2Name": "Tottenham Hotspur",
+      "Tim1Image": "#2d6cdf",
+      "Tim2Image": "#e7eaf0",
+      "EventTime": "2025-11-26T14:00:00Z",
+      "CategoryName": "Premier League",
+      "IsLive": true,
+      "StreamingLinks": [
+        { "ServerName": "Server 1", "ServerLink": "https://cipkbcg8mja9tleutkr2j9.website:9988/evrtn-vs-munfc.m3u8" },
+                { "ServerName": "Server 2", "ServerLink": "https://cdn-5e8f9.cdnbreazy.cfd/evrtn-vs-munfc.m3u8" }
+
+      ]
+    },
+    {
+      "id": "E2",
+      "Tim1Name": "AC Milan",
+      "Tim2Name": "Inter Milan",
+      "Tim1Image": "#d61a1f",
+      "Tim2Image": "#0b5a8a",
+      "EventTime": "2025-11-16T16:30:00Z",
+      "CategoryName": "Serie A",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server B", "ServerLink": "https://example.com/stream/E2" }
+      ]
+    },
+    {
+      "id": "E3",
+      "Tim1Name": "Real Madrid",
+      "Tim2Name": "Barcelona",
+      "Tim1Image": "#ffffff",
+      "Tim2Image": "#004d98",
+      "EventTime": "2025-11-17T19:00:00Z",
+      "CategoryName": "La Liga",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server C", "ServerLink": "https://example.com/stream/E3" }
+      ]
+    },
+    {
+      "id": "E4",
+      "Tim1Name": "Bayern Munich",
+      "Tim2Name": "Borussia Dortmund",
+      "Tim1Image": "#e30613",
+      "Tim2Image": "#ffd200",
+      "EventTime": "2025-11-18T13:30:00Z",
+      "CategoryName": "Bundesliga",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server A", "ServerLink": "https://example.com/stream/E4" }
+      ]
+    },
+    {
+      "id": "E5",
+      "Tim1Name": "Manchester City",
+      "Tim2Name": "Liverpool",
+      "Tim1Image": "#6cabd4",
+      "Tim2Image": "#c8102e",
+      "EventTime": "2025-11-19T15:00:00Z",
+      "CategoryName": "Premier League",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server D", "ServerLink": "https://example.com/stream/E5" }
+      ]
+    },
+    {
+      "id": "E6",
+      "Tim1Name": "Juventus",
+      "Tim2Name": "Napoli",
+      "Tim1Image": "#000000",
+      "Tim2Image": "#0798d9",
+      "EventTime": "2025-11-20T18:45:00Z",
+      "CategoryName": "Serie A",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server B", "ServerLink": "https://example.com/stream/E6" }
+      ]
+    },
+    {
+      "id": "E7",
+      "Tim1Name": "Chelsea",
+      "Tim2Name": "Arsenal",
+      "Tim1Image": "#034694",
+      "Tim2Image": "#ef0107",
+      "EventTime": "2025-11-21T12:00:00Z",
+      "CategoryName": "Premier League",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server A", "ServerLink": "https://example.com/stream/E7" }
+      ]
+    },
+    {
+      "id": "E8",
+      "Tim1Name": "Lewis Hamilton",
+      "Tim2Name": "Max Verstappen",
+      "Tim1Image": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/868.png&w=350&h=254",
+      "Tim2Image": "#ff0000",
+      "EventTime": "2025-11-22T09:00:00Z",
+      "CategoryName": "Formula 1",
+      "IsLive": true,
+      "StreamingLinks": [
+        { "ServerName": "F1 Stream", "ServerLink": "https://example.com/stream/E8" }
+      ]
+    },
+    {
+      "id": "E9",
+      "Tim1Name": "Boston Celtics",
+      "Tim2Name": "Los Angeles Lakers",
+      "Tim1Image": "#007a33",
+      "Tim2Image": "#552583",
+      "EventTime": "2025-11-23T02:30:00Z",
+      "CategoryName": "NBA",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "NBA Stream", "ServerLink": "https://example.com/stream/E9" }
+      ]
+    },
+    {
+      "id": "E10",
+      "Tim1Name": "Hull City",
+      "Tim2Name": "Sheffield United",
+      "Tim1Image": "#f4a300",
+      "Tim2Image": "#e63946",
+      "EventTime": "2025-11-24T11:00:00Z",
+      "CategoryName": "Championship",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server C", "ServerLink": "https://example.com/stream/E10" }
+      ]
+    }
+  ],
+  "LiveChannels": [
+    {
+      "ChannelName": "Sky Sports Main Event",
+      "ChannelImage": "",
+      "StreamingLinks": [
+        { "ServerName": "Server A", "ServerLink": "https://example.com/channel/C1" }
+      ]
+    },
+    {
+      "ChannelName": "ESPN",
+      "ChannelImage": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+      "StreamingLinks": [
+        { "ServerName": "Server B", "ServerLink": "https://example.com/channel/C2" }
+      ]
+    }
+  ]
+}
