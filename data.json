@@ -1,0 +1,80 @@
+{
+  "LiveEvents": [
+    {
+      "id": "E1",
+      "Tim1Name": "Real Madrid",
+      "Tim2Name": "Olympiacos",
+      "Tim1Image": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "Tim2Image": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
+      "EventTime": "Nov 26, 2025, 09:00 PM",
+      "CategoryName": "UEFA Champions League",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server 1", "ServerLink": "https://storage.fireboss.app/STREAM.mp4" }
+
+      ]
+    },
+    {
+      "id": "E2",
+      "Tim1Name": "Atlético Madrid",
+      "Tim2Name": "Inter Milan",
+      "Tim1Image": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+      "Tim2Image": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+       "EventTime": "Nov 26, 2025, 09:00 PM",
+      "CategoryName": "UEFA Champions League",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server 1", "ServerLink": "https://storage.fireboss.app/STREAM.mp4" }
+      ]
+    },
+    {
+      "id": "E3",
+      "Tim1Name": "Arsenal",
+      "Tim2Name": "Bayern Munich",
+      "Tim1Image": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "Tim2Image": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+       "EventTime": "Nov 26, 2025, 09:00 PM",
+      "CategoryName": "UEFA Champions League",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server 1", "ServerLink": "https://storage.fireboss.app/STREAM.mp4" }
+      ]
+    },
+    {
+      "id": "E4",
+      "Tim1Name": "Liverpool",
+      "Tim2Name": "PSV eindhoven",
+      "Tim1Image": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "Tim2Image": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+      "EventTime": "Nov 26, 2025, 09:00 PM",
+      "CategoryName": "UEFA Champions League",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server 1", "ServerLink": "https://storage.fireboss.app/STREAM.mp4" }
+      ]
+    },
+    {
+      "id": "E5",
+      "Tim1Name": "Paris Saint-Germain",
+      "Tim2Name": "Totenham Hotspur",
+      "Tim1Image": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "Tim2Image": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+      "EventTime": "Nov 26, 2025, 09:00 PM",
+      "CategoryName": "UEFA Champions League",
+      "IsLive": false,
+      "StreamingLinks": [
+        { "ServerName": "Server 1", "ServerLink": "https://storage.fireboss.app/STREAM.mp4" }
+      ]
+    }
+  ],
+  "LiveChannels": [
+    
+    {
+      "ChannelName": "ESPN",
+      "ChannelImage": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+      "StreamingLinks": [
+        { "ServerName": "Server A", "ServerLink": "https://storage.fireboss.app/STREAM.mp4" }
+      ]
+    }
+  ]
+}

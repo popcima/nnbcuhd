@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SPTV - Watch Live Sport Matches</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css" />
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MKCENV3DLJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MKCENV3DLJ');
+</script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="brand">
+          <div class="logo">SPTV</div>
+        </div>
+        <nav class="primary-nav" role="tablist" aria-label="Primary">
+          <button class="nav-btn active" data-target="#tab-live-events" role="tab" aria-selected="true">
+            Live Events
+          </button>
+          <button class="nav-btn" data-target="#tab-live-channels" role="tab" aria-selected="false">
+            Live Channels
+          </button>
+        </nav>
+        <div class="actions">
+        </div>
+      </div>
+    </header>
+
+    <main class="container main">
+      <section id="tab-live-events" class="tab-panel active" role="tabpanel">
+        <script type="text/javascript">
+	atOptions = {
+		'key' : '838ab31b53ac3df9b973d49f5135192a',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//ancestorheadquarters.com/838ab31b53ac3df9b973d49f5135192a/invoke.js"></script>
+        <h2 class="section-title">Live Events</h2>
+        <div class="filters">
+          <div class="chips" id="leagueChips">
+            <!-- chips inserted by JS -->
+          </div>
+        </div>
+        <div id="eventsList" class="cards"></div>
+      </section>
+
+      <section id="tab-live-channels" class="tab-panel" role="tabpanel" hidden>
+        <script type="text/javascript">
+	atOptions = {
+		'key' : '5d1c061bb1b8dd062311a5e8c12fca12',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//ancestorheadquarters.com/5d1c061bb1b8dd062311a5e8c12fca12/invoke.js"></script>
+        <h2 class="section-title">Live Channels</h2>
+        <div id="channelsGrid" class="channels-grid"></div>
+      </section>
+
+      <!-- Replays removed -->
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>we don't host any content, we only provide links to other sites.</p>
+      </div>
+    </footer>
+
+    <script src="./script.js" type="module"></script>
+    <script type='text/javascript' src='//ancestorheadquarters.com/ee/eb/ab/eeebabd2a90089802640141db87c3d40.js'></script>
+  </body>
+</html>
