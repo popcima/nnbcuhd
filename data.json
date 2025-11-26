@@ -10,9 +10,9 @@
       "CategoryName": "UEFA Champions League",
       "IsLive": false,
       "StreamingLinks": [
-          { "ServerName": "Server 1", "ServerLink": "https://storage.googleapis.com/poitunigerting4/mux_video_ts1/index-1.m3u8" },
+          { "ServerName": "Server 1", "ServerLink": "https://fried-manicure-hostle-war.ott-vncdn.site/20e5398c54563022e1db35ef9712286a.m3u8?md5=58bb4d89550ade679a6954a80b852615&expires=1764189389" },
          { "ServerName": "Server 2", "ServerLink": "https://edge1.streameast.asia/stream/ch1/chunklist.m3u8?md5=m9mF6-kiU6OPvZWDd2HLeA&expires=1764188517" },
-        { "ServerName": "Server 3", "ServerLink": "https://fried-manicure-hostle-war.ott-vncdn.site/20e5398c54563022e1db35ef9712286a.m3u8?md5=6605de0f26a7793b0706b544d33a450c&expires=1764189717" }
+        { "ServerName": "Server 3", "ServerLink": "https://gg.poocloud.in/ucl_oly/tracks-v1a1/mono.ts.m3u8" }
       
 
       ]
@@ -27,9 +27,9 @@
       "CategoryName": "UEFA Champions League",
       "IsLive": false,
       "StreamingLinks": [
-          { "ServerName": "Server 1", "ServerLink": "https://play.streameast247.com/playlist/stream_3.m3u8?md5=iWL3h9L8A8rqgVpmWOb2Lg&expires=1764188630" },
-         { "ServerName": "Server 2", "ServerLink": "https://fried-manicure-hostle-war.ott-vncdn.site/8134b57e86ec04a9ed8a7c28137030e7.m3u8?md5=b3ae4a3ae859aeb5120aeae0b3d30369&expires=1764189761" }
-      
+                 { "ServerName": "Server 1", "ServerLink": "https://fried-manicure-hostle-war.ott-vncdn.site/8134b57e86ec04a9ed8a7c28137030e7.m3u8?md5=2da4a6c64d898c677b46df011bd157d6&expires=1764189855" },
+          { "ServerName": "Server 2", "ServerLink": "https://play.streameast247.com/playlist/stream_3.m3u8?md5=iWL3h9L8A8rqgVpmWOb2Lg&expires=1764188630" },
+       { "ServerName": "Server 3", "ServerLink": "https://gg.poocloud.in/ucl_atm/tracks-v1a1/mono.ts.m3u8" }
       ]
     },
     {
@@ -42,9 +42,9 @@
       "CategoryName": "UEFA Champions League",
       "IsLive": false,
       "StreamingLinks": [
-        { "ServerName": "Server 1", "ServerLink": "https://storage.googleapis.com/poitunigerting1/mux_video_ts1/index-1.m3u8" },
+        { "ServerName": "Server 1", "ServerLink": "https://fried-manicure-hostle-war.ott-vncdn.site/744221527e9ff037c51845f2739db3a3.m3u8?md5=1e4b66bbc4b1d2c7df5489dd16d79704&expires=1764188902" },
          { "ServerName": "Server 2", "ServerLink": "https://edge5.streameast.asia/stream/ch2/chunklist.m3u8?md5=J_wHAz9Yy8sqdx8rrJVN-Q&expires=1764188356" },
-        { "ServerName": "Server 3", "ServerLink": "https://fried-manicure-hostle-war.ott-vncdn.site/744221527e9ff037c51845f2739db3a3.m3u8?md5=6dad6895c33ed319145ad3f1a127cf01&expires=1764189433" }
+        { "ServerName": "Server 3", "ServerLink": "https://gg.poocloud.in/ucl_ars/tracks-v1a1/mono.ts.m3u8" }
       ]
     },
     {
@@ -57,9 +57,9 @@
       "CategoryName": "UEFA Champions League",
       "IsLive": false,
       "StreamingLinks": [
-        { "ServerName": "Server 1", "ServerLink": "https://storage.googleapis.com/poitunigerting2/mux_video_ts1/index-1.m3u8" },
+        { "ServerName": "Server 1", "ServerLink": "https://fried-manicure-hostle-war.ott-vncdn.site/ddb9db5a249ce70b7ce9f48a57095d15.m3u8?md5=598c48dadb31340b56e7e033a1634c55&expires=1764189188" },
         { "ServerName": "Server 2", "ServerLink": "https://play.streameast247.com/playlist/stream_5.m3u8?md5=13YBi3b6jXMdVVpS7WnYsQ&expires=1764188422" },
-        { "ServerName": "Server 3", "ServerLink": "https://fried-manicure-hostle-war.ott-vncdn.site/ddb9db5a249ce70b7ce9f48a57095d15.m3u8?md5=7c22df49569d716cd8ccc701fe944ab6&expires=1764189518" }
+        { "ServerName": "Server 3", "ServerLink": "https://gg.poocloud.in/ucl_liv/tracks-v1a1/mono.ts.m3u8" }
       ]
     },
     {
@@ -72,9 +72,9 @@
       "CategoryName": "UEFA Champions League",
       "IsLive": false,
       "StreamingLinks": [
-        { "ServerName": "Server 1", "ServerLink": "https://storage.googleapis.com/poitunigerting3/mux_video_ts1/index-1.m3u8" },
+        { "ServerName": "Server 1", "ServerLink": "https://fried-manicure-hostle-war.ott-vncdn.site/4ba36b646ca58a7876e8bfa11d518446.m3u8?md5=5a121f88c11e75955a92a99488cae1c1&expires=1764189333" },
         { "ServerName": "Server 2", "ServerLink": "https://play.streameast247.com/playlist/stream_6.m3u8?md5=T-LFHA4iJDgqiew9cqGpHQ&expires=1764188470" },
-        { "ServerName": "Server 3", "ServerLink": "https://fried-manicure-hostle-war.ott-vncdn.site/4ba36b646ca58a7876e8bfa11d518446.m3u8?md5=c2bbbaf8e274c356c04ecb3828613f35&expires=1764189592" }
+        { "ServerName": "Server 3", "ServerLink": "https://gg.poocloud.in/ucl_psg/tracks-v1a1/mono.ts.m3u8" }
       
       ]
     }
